@@ -32,12 +32,12 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot 2024-03-09 at 17-45-27 Document](https://github.com/ZOROexe/FAQ/assets/135737744/8f3ced40-0cd9-4868-b709-76eef286f907)
-![Screenshot 2024-03-09 at 17-47-03 Document](https://github.com/ZOROexe/FAQ/assets/135737744/98b4cb12-2887-4b38-819b-285db9a79750)
 
 
 ### Links
 
-- Solution URL: [HTML](https://your-solution-url.com)
+- Solution URL: [HTML](https://github.com/ZOROexe/FAQ/blob/main/index.html)
+- Solution URL:[CSS](
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
