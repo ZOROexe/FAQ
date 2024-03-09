@@ -32,18 +32,12 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot 2024-03-09 at 17-45-27 Document](https://github.com/ZOROexe/FAQ/assets/135737744/8f3ced40-0cd9-4868-b709-76eef286f907)
+![Screenshot 2024-03-09 at 17-47-03 Document](https://github.com/ZOROexe/FAQ/assets/135737744/98b4cb12-2887-4b38-819b-285db9a79750)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [HTML](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
