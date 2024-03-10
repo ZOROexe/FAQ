@@ -53,5 +53,5 @@ This challenge helped me to learn more about JavaScript and how obtain the child
 ## Author
 
 - Frontend Mentor - [@ZOROexe](https://www.frontendmentor.io/profile/ZOROexe)
-- Twitter - [@codewithabxi](https://www.twitter.com/codewithabxi)
+- Twitter - [@AbhiReturnTrue](https://www.twitter.com/AbhiReturnTrue)
 
